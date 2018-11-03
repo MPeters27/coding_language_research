@@ -1,0 +1,13 @@
+C#
+
+This one seems to be a programming language that actually has more in common with Java than it does C++.
+
+From the Software Guild website https://www.thesoftwareguild.com/faq/difference-between-c-plus-plus-and-c-sharp/
+
+"it is a widely used coding language that allows software developers to create secure and user-friendly 
+applications that run on the .NET Framework. C# is used to create Windows client applications, XML Web services, 
+distributed components, client-server, database applications and more."
+
+C# gets a lot of usage on the Windows side of things. It is highly object-oriented, and gets rid of the manual
+memory management that other C languages have. Overall it is less powerful that C/C++ but is oftentimes
+easier to work with.
